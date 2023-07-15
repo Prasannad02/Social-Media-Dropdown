@@ -17,7 +17,7 @@ Prasanna-Social media dropdown is a responsive and interactive dropdown menu des
 
 Live Demo:
 
-    https://codesoftg.github.io/TGCodes-Socialmedia-Dropdown/
+    https://prasannad02.github.io/Social-Media-Dropdown/
 ## Getting Started
 
 To get started with Prasanna-Social media dropdown, follow these steps:
